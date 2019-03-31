@@ -9,7 +9,6 @@ public class Player_gen : MonoBehaviour
     {
         if (i == 0)
             ;
-        Instantiate(abc, new Vector3(0, 2, -10), new Quaternion());
     }
     void Start()
     {
