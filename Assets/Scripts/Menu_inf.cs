@@ -5,4 +5,5 @@ using UnityEngine;
 public static class Menu_inf
 {
     public static int character_chosen = 0;
+
 }
